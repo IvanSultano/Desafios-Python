@@ -1,3 +1,4 @@
+#Escreva um programa que o usuario digite um numero em tipo Inteiro e mostre o Antecessor e Sucessor.
 number = int(input("Insira um Numero: "))  # Usuario Digita um numero em tipo inteiro
 y = number - 1 # Programa pega o numero digitado pelo usuario e a variavel 'y' faz a operação 'number - 1'
 x = number + 1 # Programa pega o numero digitado pelo usuario e a variavel 'x' faz a operação 'number + 1'

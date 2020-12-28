@@ -1,3 +1,5 @@
+# Crie um programa que leia quanto dinheiro uma pessoa tem na carteira e mostre quantos Dólares ela pode comprar.
+# Considere US$1.00 = R$3.27
 print('Conversor de Moedas\n') # Printa para o usuario a mensagem
 number = float(input('Digite quantos Reais Você Possue:')) # A variavel number tipo float feita para o usuario colocar sua quantidade de reias que deseja converter
 conversion = number / 3.27 # Variavel conversion pega o valor que o usuario inseriu e divide por 3.27

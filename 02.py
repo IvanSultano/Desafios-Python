@@ -1,3 +1,4 @@
+# Faça um programa que Leia um numero em tipo Inteiro e mostre o valor dele em dobro e o triplo.
 number = int(input('Digite um Numero: ')) #O usuario digita um numero em tipo inteiro
 double = number * 2 # A variavel double faz a operação number vezes 2
 triple = number * 3 # A variavel triple faz a operaçãonumber vezes 3

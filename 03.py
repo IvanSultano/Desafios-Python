@@ -1,3 +1,4 @@
+# Escreva um programa que Leia duas notas em tipo float e faça a media dessas notas.
 number1 = float(input('Digite a Primeira Nota: ')) # O usuario digita a primeira nota do aluno em tipo float
 number2 = float(input('Digite a Segunda Nota: ')) # O usuario digita a segunda nota  do aluno em tipo float
 sum = (number1 + number2) / 2 # Variavel sum faz a soma das duas notas que o usuario incluiu em seguida fazendo essa soma dividido por 2
